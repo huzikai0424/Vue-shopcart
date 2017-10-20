@@ -5,7 +5,9 @@
 - vue-cli
 - vue-resource
 - vue-router
-  
+- stylus
+> 插件
+- better-scroll
 
 ## Build Setup
 
