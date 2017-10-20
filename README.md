@@ -1,6 +1,11 @@
 # vue仿饿了么app
 
-> 商品选取加购、商品详情、better-scroll
+> 技术栈：
+- vue
+- vue-cli
+- vue-resource
+- vue-router
+  
 
 ## Build Setup
 
