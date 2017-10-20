@@ -1,6 +1,6 @@
 # vue仿饿了么app
 
-> 商品选取加购、+1、-1、商品详情、better-scroll
+> 商品选取加购、商品详情、better-scroll
 
 ## Build Setup
 
