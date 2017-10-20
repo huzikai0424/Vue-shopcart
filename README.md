@@ -1,6 +1,6 @@
-# sell
+# vue仿饿了么app
 
-> sell app
+> 商品选取加购、+1、-1、商品详情、better-scroll
 
 ## Build Setup
 
